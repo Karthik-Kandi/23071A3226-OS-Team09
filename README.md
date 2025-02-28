@@ -58,4 +58,4 @@ gcc internet_client.c -o internet_client
 - Modify the *port number* in internet_server.c for a different port.
 - Add *message encryption* for secure communication.
 
-📩 Feel free to contribute or modify the code!
+ Feel free to contribute or modify the code!
